@@ -21,7 +21,7 @@
     <p>To get started with the Currency Converter app, follow these steps:</p>
     <ol>
         <li><strong>Clone the Repository:</strong>
-            <pre><code>git clone https://github.com/yourusername/currency-converter.git</code></pre>
+            <pre><code>git clone https://github.com/Amittiwari2004/currency-converter.git</code></pre>
         </li>
         <li><strong>Navigate to the Project Directory:</strong>
             <pre><code>cd currency-converter</code></pre>
